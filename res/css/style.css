@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+#cookie {
+    max-width:260px;
+    width:100%;
+    display: block;
+    margin: 0 auto;
+}
+#counter {
+    text-align: center;
+    font-size: 24px;
+    font-family: 'Bungee Spice', cursive;
+}
+
+#clickupgrade {
+    max-width:260px;
+    width:100%;
+    display: block;
+    margin: 0 auto;
+}
+
+#autoclickerupgrade {
+    max-width:260px;
+    width:100%;
+    display: block;
+    margin: 0 auto;
+}
